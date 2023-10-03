@@ -1,5 +1,5 @@
 # GPA Calculator  
-The program takes 4` input from the user and then calculates the average number. Grade calculated according to this table
+The program takes `4` input from the user and then calculates the average number. Grade calculated according to this table
 | Result | Grade  |
 |-------|--------|
 |  0-40  |   F    |
