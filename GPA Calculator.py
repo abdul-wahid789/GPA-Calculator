@@ -40,7 +40,7 @@ for i in subjects:
 
 print("\n\n############################\n\n")
 for i in range(len(subjects)):
-    print(f"{subjects[i]}: Mark: {marks[i]} Grade: {calculateGrade(marks[i])}")
+    print(f"{subjects[i]} | Mark: {marks[i]} | Grade: {calculateGrade(marks[i])}")
 
 print("\n\n")
 
