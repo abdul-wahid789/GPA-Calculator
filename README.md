@@ -10,4 +10,4 @@ The program takes 4` input from the user and then calculates the average number.
 | 91-100|   A+   |  
   
 To clone this repo  
-`git clone `
+`git clone https://github.com/abdul-wahid789/GPA-Calculator`
